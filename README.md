@@ -2,10 +2,10 @@ Desenvolvimento de um software de gerenciamento de livros em Python. Este softwa
 1.	Cadastrar Livro
    
 3.	Consultar Livro
-    i.	Consultar Todos
-    ii.	Consultar por Id
-    iii.	Consultar por Autor
-    iv.	Retornar ao menu
+   i.	Consultar Todos
+   ii.	Consultar por Id
+   iii.	Consultar por Autor
+   iv.	Retornar ao menu
   	
 5.	Remover Livro
    
